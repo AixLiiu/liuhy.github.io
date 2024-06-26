@@ -9,7 +9,7 @@
 入学年份：2022-9
 
 联系方式：e-mail:269546774@qq.com
-         qq:2629546774
+         blog:https://blog.csdn.net/Aixlhy?type=blog
          wechat:L15094893610
          csdn:https://blog.csdn.net/Aixlhy?type=blog
 
