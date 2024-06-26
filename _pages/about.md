@@ -1,16 +1,9 @@
-姓名：刘浩宇
+I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-性别：男
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-学校：齐鲁工业大学
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-专业：物联网工程
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+————————————————
 
-入学年份：2022-9
-
-联系方式：e-mail:269546774@qq.com
-         blog:https://blog.csdn.net/Aixlhy?type=blog
-         wechat:images/wecaht.jpg
-         csdn:https://blog.csdn.net/Aixlhy?type=blog
-
-个人简介：我是一名对物联网技术充满热情的学生，热衷于学习和探索新技术，具备良好的团队合作能力和解决问题的能力。在校期间，我积极参与学术竞赛和项目实践，致力于将理论知识应用于实际应用中，并不断提升自己的专业技能和实践经验。
