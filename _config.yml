@@ -17,23 +17,23 @@ author:
   在学习过程中，我努力掌握各类传感器技术、嵌入式系统设计以及数据通信协议等相关知识，并且在实践中积累了丰富的经验。"
   location         : "Earth"
   employer         : "qlu"
-  uri              :
+  uri              : #
   email            : "2629546774@qq.com" 
 
   # Academic websites
-  arxiv            : 
-  googlescholar    : 
-  impactstory      : 
-  orcid            : 
-  semantic         : 
-  pubmed           :
-  researchgate     :
+  arxiv            : #
+  googlescholar    : #
+  impactstory      : #
+  orcid            : #
+  semantic         : #
+  pubmed           : #
+  researchgate     : #
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "AixLiiu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
