@@ -10,12 +10,12 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author 
 author:
-  avatar           : "lhy.png"
+  avatar           : "images/lhy.png"
   name             : "刘浩宇"
-  pronouns         : him  
+  pronouns         : #
   bio              : "作为一名对技术充满热情的学生，我选择了物联网工程专业，因为我相信物联网技术的快速发展将会深刻改变我们生活和工作的方式。
   在学习过程中，我努力掌握各类传感器技术、嵌入式系统设计以及数据通信协议等相关知识，并且在实践中积累了丰富的经验。"
-  location         : "Earth"
+  location         : "Shandong"
   employer         : "qlu"
   uri              : #
   email            : "2629546774@qq.com" 
